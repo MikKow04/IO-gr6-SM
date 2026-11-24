@@ -1,2 +1,3 @@
 # IO-gr6-SM
 Aplikacja służąca do sortowania zbiorów danych różnymi algorytmami. Ma pomóc użytkownikowi w ocenie, która metoda może się najlepiej sprawdzić w konkretnych przypadkach oraz, oczywiście, w uporządkowaniu danych. Dane liczbowe są sortowane standardowo, natomiast tekstowe - leksykograficznie. Należy zaimplementować co najmniej 6 różnych metod sortowania. Aplikacja będzie dostępna poprzez GUI, a także jako zdalne API, dzięki czemu można zintegrować z istniejącymi narzędziami.
+https://onedrive.live.com/:x:/g/personal/9ff7ef94c3e7582b/IQBtwnImKgpCSZXvDVkVMxjrARq8KtVqu__-_S9r9tJZoaA?rtime=35-n4GhK30g&redeem=aHR0cHM6Ly8xZHJ2Lm1zL3gvYy85ZmY3ZWY5NGMzZTc1ODJiL0lRQnR3bkltS2dwQ1NaWHZEVmtWTXhqckFScThLdFZxdV9fLV9TOXI5dEpab2FBP2U9VDFXd3Nl
